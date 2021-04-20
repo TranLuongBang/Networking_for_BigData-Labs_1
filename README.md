@@ -18,11 +18,17 @@ r = 2 and r = 8.
 **Part 2:**
 We aim to compare throughput offered by Fat-Tree and Jellyfish
 for the same amount of resources.
+
 N = # of servers.
+
 S = # of switches.
+
 L = # of links connecting switches.
+
 n = # number of ports of a switch.
+
 h = mean shortest path lengths for server-to-server paths.
+
 
 1. Find r (# of switch ports to be connected to other switches
 in Jellyfish) as a function of n so that N, S and L are the
