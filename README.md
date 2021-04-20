@@ -33,9 +33,11 @@ h = mean shortest path lengths for server-to-server paths.
 1. Find r (# of switch ports to be connected to other switches
 in Jellyfish) as a function of n so that N, S and L are the
 same for Jellyfish and Fat-tree.
+
 2 Write the expression of the application-oblivious throughput
 bound TH for an all-to-all traffic matrix among servers. The
 expression of TH must be a function of h and n only.
+
 3 Using the exact value of h as a function of n for Fat-Tree (you
 must calculate it!) and the lower bound of h for r-regular
 random graphs (see slides, but be careful with notation) for
