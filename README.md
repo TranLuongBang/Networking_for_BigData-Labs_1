@@ -16,6 +16,7 @@ pc (G) vs. K, for K ≤ 100, for r-regular random graphs with
 r = 2 and r = 8.
 
 **Part 2:**
+
 We aim to compare throughput offered by Fat-Tree and Jellyfish
 for the same amount of resources.
 
