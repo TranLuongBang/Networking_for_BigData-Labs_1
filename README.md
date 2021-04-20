@@ -1,4 +1,4 @@
-# Networking_for_BigData-Labs_Assignment1
+# Networking for Big Data and Laboratory
 **Part 1:**
 1. Use library scripts to generate p-ER random graphs and
 r-regular random graph. Let K denote the number of nodes.
