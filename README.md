@@ -29,7 +29,6 @@ n = # number of ports of a switch.
 
 h = mean shortest path lengths for server-to-server paths.
 
-
 1. Find r (# of switch ports to be connected to other switches
 in Jellyfish) as a function of n so that N, S and L are the
 same for Jellyfish and Fat-tree.
